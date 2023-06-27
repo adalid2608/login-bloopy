@@ -121,18 +121,6 @@ body {
     transform: translate(10px, -40%);
 }
 
-<<<<<<< HEAD
-=======
-.show{
-    position: absolute;
-    left: 250px;
-    top: 50%;
-    transform: translateY(-50%);
-    cursor: pointer;
-}
->>>>>>> 62f8ddac516246885f4859ba59deeaa16d4e241a
-
-
 .check {
     position:absolute;
     border-radius: 3px;
@@ -166,6 +154,7 @@ body {
     margin-top: 40px;
     margin-bottom: 18px;
     cursor: pointer;
+    box-shadow: -1px 6px 10px 0px rgba(0, 0, 0, 0.658);
 }
 
 .sign-in-sm {
