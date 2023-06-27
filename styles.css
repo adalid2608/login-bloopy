@@ -280,4 +280,7 @@ body {
     .txt{
         display: none;
     }
+    body {
+        background-color: #FFF;
+    }
 }
