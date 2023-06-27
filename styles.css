@@ -121,6 +121,8 @@ body {
     transform: translate(10px, -40%);
 }
 
+<<<<<<< HEAD
+=======
 .show{
     position: absolute;
     left: 250px;
@@ -128,6 +130,7 @@ body {
     transform: translateY(-50%);
     cursor: pointer;
 }
+>>>>>>> 62f8ddac516246885f4859ba59deeaa16d4e241a
 
 
 .check {
@@ -288,5 +291,4 @@ body {
     .txt{
         display: none;
     }
-
 }
