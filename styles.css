@@ -112,6 +112,7 @@ body {
     font-size: 14px;
     font-weight: 500;
     color: #00000080;
+    display: flex;
 }
 .form-control i {
     position: absolute;
@@ -119,6 +120,15 @@ body {
     left: 0px;
     transform: translate(10px, -40%);
 }
+
+.show{
+    position: absolute;
+    left: 250px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
 
 .check {
     position:absolute;
